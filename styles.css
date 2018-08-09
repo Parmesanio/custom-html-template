@@ -1,0 +1,45 @@
+body {
+    font-family: 'Hanalei Fill', cursive;
+}
+header {
+    background: #222;
+    height: 100px;
+    padding: 25px;
+}
+header  nav, header  div {
+    background: #fff;
+    height: 50px;
+}
+header div {
+    float: left;
+    width: 10%;
+}
+nav {
+    float: right;
+    width: 25%;
+}
+section {
+    background: #222;
+    height: 50vh;
+    width: 50%;
+    margin: 4em auto;
+    padding: 25px;
+}
+section div {
+    background: #fff;
+    height: 20%;
+    width: 80%;
+    margin: 1em auto 0 auto;
+}
+.short {
+    width: 60%;
+}
+button {
+    background: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 3em 1em 1em 1em;
+    height: 30px;
+    width: 30%;
+}
