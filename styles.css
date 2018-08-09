@@ -20,10 +20,10 @@ nav {
 }
 section {
     background: #222;
-    height: 50vh;
+    height: 40vh;
     width: 50%;
     margin: 4em auto;
-    padding: 25px;
+    padding: 25px 25px 0;
 }
 section div {
     background: #fff;
@@ -39,7 +39,7 @@ button {
     border: none;
     border-radius: 15px;
     cursor: pointer;
-    margin: 3em 1em 1em 1em;
+    margin: 3em 1em 0;
     height: 30px;
     width: 30%;
 }
